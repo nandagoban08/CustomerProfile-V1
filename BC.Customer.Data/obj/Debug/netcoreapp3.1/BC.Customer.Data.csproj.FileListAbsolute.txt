@@ -1,0 +1,17 @@
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Data.deps.json
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Data.runtimeconfig.json
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Data.runtimeconfig.dev.json
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Data.dll
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Data.pdb
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.dll
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.pdb
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.genruntimeconfig.cache
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Contracts.dll
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Contracts.pdb
+D:\Project\repos\BC.Customer.Data\obj\Debug\netcoreapp3.1\BC.Customer.Data.csproj.CopyComplete
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Data\bin\Debug\netcoreapp3.1\BC.Customer.Entities.pdb

@@ -1,0 +1,17 @@
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Business.deps.json
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\ref\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Business.pdb
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Contracts.dll
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Contracts.pdb
+D:\Project\repos\BC.Customer.Business\bin\Release\net5.0\BC.Customer.Entities.pdb
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.csproj.CopyComplete
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\ref\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\obj\Release\net5.0\BC.Customer.Business.pdb

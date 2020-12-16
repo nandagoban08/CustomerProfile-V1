@@ -1,0 +1,34 @@
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.deps.json
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\ref\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.pdb
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Contracts.dll
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Contracts.pdb
+D:\Project\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csproj.CopyComplete
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\ref\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.pdb
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.deps.json
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.dll
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\ref\BC.Customer.Common.dll
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Common.pdb
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Contracts.dll
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Contracts.pdb
+D:\Project\New folder\repos\BC.Customer.Common\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csprojAssemblyReference.cache
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.AssemblyInfoInputs.cache
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.AssemblyInfo.cs
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csproj.CoreCompileInputs.cache
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.csproj.CopyComplete
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.dll
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\ref\BC.Customer.Common.dll
+D:\Project\New folder\repos\BC.Customer.Common\obj\Debug\net5.0\BC.Customer.Common.pdb

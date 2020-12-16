@@ -1,0 +1,4 @@
+D:\Project\repos\BC.Customer.UnitTest\obj\Debug\netcoreapp3.1\BC.Customer.UnitTest.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.UnitTest\obj\Debug\netcoreapp3.1\BC.Customer.UnitTest.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.UnitTest\obj\Debug\netcoreapp3.1\BC.Customer.UnitTest.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.UnitTest\obj\Debug\netcoreapp3.1\BC.Customer.UnitTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,38 @@
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.deps.json
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.dll
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\ref\BC.Customer.Resources.dll
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.pdb
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Contracts.dll
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Contracts.pdb
+D:\Project\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.Error.resources
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.GenerateResource.cache
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.CopyComplete
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.dll
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\ref\BC.Customer.Resources.dll
+D:\Project\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.pdb
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.deps.json
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.dll
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\ref\BC.Customer.Resources.dll
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Resources.pdb
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Contracts.dll
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Contracts.pdb
+D:\Project\New folder\repos\BC.Customer.Resources\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csprojAssemblyReference.cache
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.Error.resources
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.GenerateResource.cache
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.AssemblyInfoInputs.cache
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.AssemblyInfo.cs
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.CoreCompileInputs.cache
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.csproj.CopyComplete
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.dll
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\ref\BC.Customer.Resources.dll
+D:\Project\New folder\repos\BC.Customer.Resources\obj\Debug\net5.0\BC.Customer.Resources.pdb

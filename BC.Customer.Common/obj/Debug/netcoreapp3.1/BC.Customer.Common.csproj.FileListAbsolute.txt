@@ -1,0 +1,9 @@
+D:\Project\repos\BC.Customer.Common\bin\Debug\netcoreapp3.1\BC.Customer.Common.deps.json
+D:\Project\repos\BC.Customer.Common\bin\Debug\netcoreapp3.1\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\bin\Debug\netcoreapp3.1\BC.Customer.Common.pdb
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.csprojAssemblyReference.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.dll
+D:\Project\repos\BC.Customer.Common\obj\Debug\netcoreapp3.1\BC.Customer.Common.pdb

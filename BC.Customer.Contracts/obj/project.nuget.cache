@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnA/zmhPqtH414UZB1w1hOSvpxj2Bm0owqf0WPEpSF7gIvwJj9ZMeFYvE4o6WECd8CqUkTQ4NlPy9WpooFe9fQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\New folder\\repos\\BC.Customer.Contracts\\BC.Customer.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nandu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.1\\microsoft.aspnetcore.http.features.5.0.1.nupkg.sha512",
+    "C:\\Users\\nandu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\nandu\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

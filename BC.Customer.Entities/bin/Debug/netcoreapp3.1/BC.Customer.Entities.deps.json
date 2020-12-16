@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BC.Customer.Entities/1.0.0": {
+        "runtime": {
+          "BC.Customer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BC.Customer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

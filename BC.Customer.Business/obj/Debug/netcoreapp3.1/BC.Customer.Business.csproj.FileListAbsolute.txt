@@ -1,0 +1,9 @@
+D:\Project\repos\BC.Customer.Business\bin\Debug\netcoreapp3.1\BC.Customer.Business.deps.json
+D:\Project\repos\BC.Customer.Business\bin\Debug\netcoreapp3.1\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\bin\Debug\netcoreapp3.1\BC.Customer.Business.pdb
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.dll
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.pdb
+D:\Project\repos\BC.Customer.Business\obj\Debug\netcoreapp3.1\BC.Customer.Business.csprojAssemblyReference.cache

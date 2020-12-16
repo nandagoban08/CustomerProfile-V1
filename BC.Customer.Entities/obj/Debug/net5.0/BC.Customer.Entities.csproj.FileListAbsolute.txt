@@ -1,0 +1,23 @@
+D:\Project\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.deps.json
+D:\Project\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Entities\bin\Debug\net5.0\ref\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.AssemblyInfoInputs.cache
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.AssemblyInfo.cs
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.csproj.CoreCompileInputs.cache
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\ref\BC.Customer.Entities.dll
+D:\Project\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\New folder\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.deps.json
+D:\Project\New folder\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Entities\bin\Debug\net5.0\ref\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Entities\bin\Debug\net5.0\BC.Customer.Entities.pdb
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.csprojAssemblyReference.cache
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.AssemblyInfoInputs.cache
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.AssemblyInfo.cs
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.csproj.CoreCompileInputs.cache
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\ref\BC.Customer.Entities.dll
+D:\Project\New folder\repos\BC.Customer.Entities\obj\Debug\net5.0\BC.Customer.Entities.pdb
